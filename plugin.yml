@@ -1,0 +1,6 @@
+name: FFAHotbarManager
+version: 1.0.0
+main: dev.opitz.ffahotbar.FFAHotbarManager
+author: OPITZ
+softdepend: [BuildFFA]
+description: Persistent /ffa hotbar manager for BuildFFA 1.8.x
